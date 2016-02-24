@@ -7,3 +7,4 @@ Creating a new branch is quick.
 4
 5
 6
+7
